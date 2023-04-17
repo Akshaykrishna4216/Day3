@@ -1,0 +1,8 @@
+D:\UST\Day2\evennumber\evennumber\bin\Debug\evennumber.exe.config
+D:\UST\Day2\evennumber\evennumber\bin\Debug\evennumber.exe
+D:\UST\Day2\evennumber\evennumber\bin\Debug\evennumber.pdb
+D:\UST\Day2\evennumber\evennumber\obj\Debug\evennumber.csproj.AssemblyReference.cache
+D:\UST\Day2\evennumber\evennumber\obj\Debug\evennumber.csproj.SuggestedBindingRedirects.cache
+D:\UST\Day2\evennumber\evennumber\obj\Debug\evennumber.csproj.CoreCompileInputs.cache
+D:\UST\Day2\evennumber\evennumber\obj\Debug\evennumber.exe
+D:\UST\Day2\evennumber\evennumber\obj\Debug\evennumber.pdb
